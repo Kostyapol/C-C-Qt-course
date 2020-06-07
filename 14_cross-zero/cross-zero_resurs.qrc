@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resurs/Null.png</file>
+        <file>Resurs/dagger.png</file>
+    </qresource>
+</RCC>
